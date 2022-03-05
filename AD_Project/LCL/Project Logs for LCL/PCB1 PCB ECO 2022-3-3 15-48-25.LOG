@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=DC1 Old Footprint=DC-002 New Footprint=DC-005
+Change Component Footprint: Designator=EC1 Old Footprint=DIP-EC2.5X6.3X11.2 New Footprint=DIP-EC3.5X8X11.5
+Added Pin To Net: NetName=NetU1_6 Pin=VR1-2
+Added Pin To Net: NetName=NetU1_3 Pin=VR2-2
+Added Room: Name=Sheet1
